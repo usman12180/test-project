@@ -1,0 +1,2 @@
+AWS cloud computing is amazing!
+Today I learned Git branching too.
